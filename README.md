@@ -1,4 +1,4 @@
-[![Efebeybolat](https://efebeybolat.github.io/assets/png/Efebeybolat%20Banner.png)](https://efebeybolat.github.io/)
+[![Efebeybolat](https://cdn.discordapp.com/banners/521771131385151488/a_cd88be4fee22df380c87ed6743f45708?size=4096)](https://noctarion.vercel.app/)
 <p align="center">
    <a href="https://discord.com/users/521771131385151488" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
    <a href="https://open.spotify.com/user/31aac5pvykdvab4rwdkuzjyfezuy" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
@@ -10,6 +10,5 @@
 <div align="center">
    <a href="https://discord.com/users/521771131385151488" target="_blank">
       <img src="https://lanyard-profile-readme.vercel.app/api/521771131385151488?bg=111111">
-      <img src="https://dc.redhub.tr/api/user/521771131385151488">
    </a>
 </div>
