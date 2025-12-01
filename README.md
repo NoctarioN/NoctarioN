@@ -11,4 +11,5 @@
    <a href="https://www.instagram.com/Efebeybolat_Coder" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM%20-111111.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
    <a href="https://github.com/efebeybolat" target="_blank"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
    <a href="https://twitter.com/efebeybolat" target="_blank"><img src="https://img.shields.io/badge/Twitter%20-111111.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
+   <img src="https://lanyard-profile-readme.vercel.app/api/521771131385151488?bg=111111"> </a>
 </p>
